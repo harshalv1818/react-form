@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/github.io/react-form/static/css/main.825cce5b.css",
-    "main.js": "/github.io/react-form/static/js/main.6287f464.js",
-    "static/js/453.275a7f35.chunk.js": "/github.io/react-form/static/js/453.275a7f35.chunk.js",
+    "main.css": "/github.io/react-form/static/css/main.e5f9d950.css",
+    "main.js": "/github.io/react-form/static/js/main.30e8eb8f.js",
     "index.html": "/github.io/react-form/index.html",
-    "main.825cce5b.css.map": "/github.io/react-form/static/css/main.825cce5b.css.map",
-    "main.6287f464.js.map": "/github.io/react-form/static/js/main.6287f464.js.map",
-    "453.275a7f35.chunk.js.map": "/github.io/react-form/static/js/453.275a7f35.chunk.js.map"
+    "main.e5f9d950.css.map": "/github.io/react-form/static/css/main.e5f9d950.css.map",
+    "main.30e8eb8f.js.map": "/github.io/react-form/static/js/main.30e8eb8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.825cce5b.css",
-    "static/js/main.6287f464.js"
+    "static/css/main.e5f9d950.css",
+    "static/js/main.30e8eb8f.js"
   ]
 }
